@@ -1,0 +1,33 @@
+.content h1 {
+	text-align: center;
+}
+
+.content {
+	background-color: green;
+	font-family: Bradley Hand, cursive;
+
+}
+
+.content p {
+	margin: 0px, 20px, 0px, 20px;
+}
+
+.header {
+	font-family: Bradley Hand, cursive;
+}
+
+.footer {
+	text-align: center;
+	background-color: blue;
+}
+
+.footer a {
+	margin-right: 60px;
+	font-size: 40px;
+	color: black;
+}
+
+.footer p {
+	font-family: Bradley Hand, cursive;
+	font-size: 20px;
+}
