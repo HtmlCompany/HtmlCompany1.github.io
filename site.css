@@ -5,6 +5,8 @@
 .content {
 	background-color: green;
 	font-family: Bradley Hand, cursive;
+	padding-right: 50px;
+	padding-left: 50px;
 
 }
 
@@ -30,4 +32,26 @@
 .footer p {
 	font-family: Bradley Hand, cursive;
 	font-size: 20px;
+}
+
+.logo {
+	display: inline-block;
+}
+
+.menu {
+	display: inline-block;
+
+}
+
+.menu ul li {
+	display: inline-block;
+	padding-right: 100px;
+	text-align: center;
+	margin: auto;
+}
+
+.menu ul {
+	size: 300px 200px;
+	margin-left: 250px;
+	padding-top: 10px;
 }
