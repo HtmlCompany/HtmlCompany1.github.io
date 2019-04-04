@@ -1,0 +1,42 @@
+.title .col-md-9 h2 {
+	text-align: right;
+}
+
+.title {
+	padding-left: 20px;
+	padding-right: 20px;
+	/*border: 2px black solid;*/
+}
+
+.title .col-md-9 h2 span {
+	font-family: Impact, fantasy;
+}
+
+.head .col-md-12 h1 {
+	font-family: DejaVu Sans Mono, monospace;
+	color: #4375c6;
+	text-align: center;
+	text-decoration: underline;
+}
+
+main {
+	padding-right: 40px;
+	padding-left: 40px;
+}
+
+.image .col-md-4 {
+	padding-top: 40px;
+}
+
+.image .col-md-8 h3 {
+	border-bottom: 1px black solid;
+	padding-top: 20px;
+	font-family: Andale Mono, monospace;
+	font-weight: bold;
+}
+
+.image .col-md-8 p {
+	font-family: Andale Mono, monospace;
+	font-weight: bold;
+	font-size: 20px;
+}
