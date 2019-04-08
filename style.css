@@ -40,3 +40,30 @@ main {
 	font-weight: bold;
 	font-size: 20px;
 }
+
+.describe .col-md-12 h3 {
+	border-bottom: 1px black solid;
+	padding-top: 20px;
+	font-family: Andale Mono, monospace;
+	font-weight: bold;
+}
+
+.describe .col-md-12 p {
+	font-family: Andale Mono, monospace;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.foot_site .col-md-8 p {
+	font-size: 14px;
+	font-family: Andale Mono, monospace;
+}
+
+footer {
+	padding-right: 40px;
+	padding-left: 40px;
+}
+
+.foot_site .col-md-8 {
+	padding-top: 40px;
+}
